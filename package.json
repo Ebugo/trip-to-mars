@@ -1,6 +1,6 @@
 {
   "name": "trip-to-mars-eb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Say hello to Mars!",
   "main": "index.js",
   "scripts": {
