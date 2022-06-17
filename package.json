@@ -1,0 +1,22 @@
+{
+  "name": "trip-to-mars",
+  "version": "1.0.0",
+  "description": "Say hello to Mars!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gospel Chinyereugo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebugo/trip-to-mars.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "bugs": {
+    "url": "https://github.com/Ebugo/trip-to-mars/issues"
+  },
+  "homepage": "https://github.com/Ebugo/trip-to-mars#readme"
+}
